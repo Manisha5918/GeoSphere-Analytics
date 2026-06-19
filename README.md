@@ -9,7 +9,7 @@ The platform combines country information, live APIs, data visualization, intera
 # 📸 Project Preview
 
 ## Home Page
-![Home Page](screenshots/01-home-page.PNG)
+![Home Page](screenshots/01-home-page.png)
 
 ## Explorer Dashboard Features
 ![Dashboard Features](screenshots/02-home-dashboard-features.png)
