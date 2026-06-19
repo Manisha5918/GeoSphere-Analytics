@@ -28,8 +28,6 @@ The platform combines country information, live APIs, data visualization, intera
 
 ## Analytics Dashboard
 ![Dashboard Analytics](screenshots/05-dashboard-analytics.png)
-
-## Explorer Dashboard Features
 ![Dashboard Features](screenshots/02-home-dashboard-features.png)
 
 
