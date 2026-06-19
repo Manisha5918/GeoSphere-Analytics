@@ -6,7 +6,7 @@ The platform combines country information, live APIs, data visualization, intera
 
 ---
 
-# 📸 Project Preview
+# Project Preview
 
 ## Home Page
 ![Home Page](screenshots/01-home-page.png)
@@ -42,7 +42,7 @@ The platform combines country information, live APIs, data visualization, intera
 
 ---
 
-# ✨ Features
+#  Features
 
 ## 🌎 Global Country Explorer
 
@@ -84,7 +84,7 @@ Interactive analytics dashboard with visual insights:
 
 ---
 
-# 🔍 Country Comparison
+#  Country Comparison
 
 Compare two countries side-by-side.
 
@@ -103,7 +103,7 @@ Provides a simple and clear comparison experience.
 
 ---
 
-# 🗺️ Interactive Map System
+#  Interactive Map System
 
 Map-based exploration using OpenStreetMap.
 
@@ -117,7 +117,7 @@ Features:
 
 ---
 
-# ✈️ Travel Route Planner
+#  Travel Route Planner
 
 Plan international travel routes.
 
@@ -132,7 +132,7 @@ Features:
 
 ---
 
-# ⭐ Travel Bucket List
+#  Travel Bucket List
 
 Personal travel tracking system.
 
@@ -147,7 +147,7 @@ Users can:
 
 ---
 
-# 🧠 Geography Quiz
+#  Geography Quiz
 
 Interactive learning section.
 
@@ -163,7 +163,7 @@ Includes:
 
 ---
 
-# 📈 World Statistics Dashboard
+#  World Statistics Dashboard
 
 Explore global records and statistics.
 
@@ -178,7 +178,7 @@ Includes:
 
 ---
 
-# 💱 Currency Converter
+# Currency Converter
 
 Currency conversion feature.
 
@@ -192,7 +192,7 @@ Allows users to:
 
 ---
 
-# 🌙 Theme Switching
+#  Theme Switching
 
 Modern dark mode support.
 
@@ -203,10 +203,9 @@ Features:
 - Improved accessibility
 - Better user experience
 
-
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 
 ## Frontend
@@ -236,8 +235,7 @@ Features:
 
 ---
 
-# 📂 Project Structure
-
+#  Project Structure
 
 ```text
 GeoSphere-Analytics
@@ -292,7 +290,7 @@ GeoSphere-Analytics
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 
 Clone the repository:
@@ -346,7 +344,7 @@ http://localhost:3000
 
 ---
 
-# 🔐 Environment Security
+#  Environment Security
 
 API keys are stored safely using environment variables.
 
@@ -355,7 +353,7 @@ The `.env` file is added inside `.gitignore` and is never uploaded publicly to G
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - AI-based travel recommendations
 - User authentication
@@ -367,15 +365,12 @@ The `.env` file is added inside `.gitignore` and is never uploaded publicly to G
 
 ---
 
-# 👩‍💻 Developer
+#  Developer
 
 **Manisha G**
 
-
-
-
 ---
 
-# ⭐ Support
+#  Support
 
 If you find this project useful, consider giving the repository a star ⭐
