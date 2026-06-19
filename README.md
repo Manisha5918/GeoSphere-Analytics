@@ -9,40 +9,41 @@ The platform combines country information, live APIs, data visualization, intera
 # 📸 Project Preview
 
 ## Home Page
-![Home Page](./screenshots/01-home-page.png)
+![Home Page](screenshots/01-home-page.png)
 
 ## Explorer Dashboard Features
-![Dashboard Features](./screenshots/02-home-dashboard-features.png)
+![Dashboard Features](screenshots/02-home-dashboard-features.png)
 
 ## Country Search & Filtering
-![Country Search](./screenshots/03-country-search.png)
+![Country Search](screenshots/03-country-search.png)
 
 ## Country Details
-![Country Details](./screenshots/04-country-details.png)
+![Country Details](screenshots/04-country-details.png)
 
 ## Analytics Dashboard
-![Dashboard Analytics](./screenshots/05-dashboard-analytics.png)
+![Dashboard Analytics](screenshots/05-dashboard-analytics.png)
 
 ## Country Comparison
-![Country Comparison](./screenshots/06-country-comparison.png)
+![Country Comparison](screenshots/06-country-comparison.png)
 
 ## Travel Route Planner
-![Route Planner](./screenshots/07-travel-route-planner.png)
+![Route Planner](screenshots/07-travel-route-planner.png)
 
 ## Bucket List Map
-![Bucket List](./screenshots/08-bucket-list-map.png)
-
-## Geography Quiz
-![Quiz](./screenshots/09-geography-quiz.png)
-
-## Currency Converter
-![Currency Converter](./screenshots/10-currency-converter.png)
+![Bucket List](screenshots/08-bucket-list-map.png)
 
 ## World Statistics Dashboard
-![World Statistics](./screenshots/11-world-statistics-dashboard.png)
+![World Statistics](screenshots/08-world-statistics-dashboard.png)
+
+## Geography Quiz
+![Quiz](screenshots/09-geography-quiz.png)
+
+## Currency Converter
+![Currency Converter](screenshots/10-currency-converter.png)
 
 ## Dark Mode
-![Dark Mode](./screenshots/12-dark-mode.png)
+![Dark Mode](screenshots/12-dark-mode.png)
+```
 
 
 ---
